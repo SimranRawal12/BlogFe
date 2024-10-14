@@ -1,0 +1,19 @@
+
+.data{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+    position: relative;
+    top:150px;
+  }
+  .icon{
+    font-size: 2rem;
+  }
+  
+  .card{
+    height:80vh;
+    width: 70%;
+  }
+  /* .css-r40f8v-MuiTypography-root {
+    font-size: 3.875rem !important;
+  } */

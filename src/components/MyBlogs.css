@@ -1,0 +1,45 @@
+.MainPage{
+    margin-top: 10rem;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    display: flex !important;
+    width: 100%;
+    /* height: 200vh; */
+}
+.MainBody{
+    border: 3px solid rgb(242, 237, 237);
+    border-radius: 2%;
+    width: 74%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+}
+.cardHead{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.innerCard{
+    display: flex;
+    flex-direction: row;
+    width:90%;
+    margin:20px;
+    border-radius: 22px !important;
+    height:250px !important;
+}
+.css-1999db7-MuiCardMedia-root{
+    object-fit: cover;
+    height: 13rem;
+    width: 14rem !important;
+    margin-left: 15px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+.delete{
+    /* display: flex; */
+    cursor:pointer;
+    display: flex;
+    position: relative;
+    left: 38rem;
+}

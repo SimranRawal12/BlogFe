@@ -1,0 +1,16 @@
+.css-binzgt {
+    padding: 20px;
+    border: 6px solid black;
+    border-radius: 23px;
+    background-color: white;
+}
+.css-1vhaqj4-MuiButtonBase-root-MuiButton-root{
+    background-color: rgb(242, 237, 237) !important;
+    color:black !important; 
+
+}
+@media (min-width: 0px) {
+        .css-nzinn5-MuiContainer-root {
+            max-width: 500px !important;
+        }
+}

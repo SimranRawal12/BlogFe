@@ -1,0 +1,39 @@
+.Container{
+    height:85vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.css-3su884-MuiPaper-root{
+  margin-left: 25rem;
+}
+.title {
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+}
+.Center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.formBox {
+  /* width:50%;
+    height:50%; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+
+.InputForm{
+    display: flex;
+    flex-direction: row;
+}
+.heading
+{
+    align-self: flex-start;
+    margin-bottom: 20px;
+    justify-self:center;
+}
